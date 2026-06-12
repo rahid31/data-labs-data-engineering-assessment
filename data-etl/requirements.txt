@@ -1,0 +1,9 @@
+apache-airflow==3.1.8
+google-cloud-bigquery
+python-dotenv
+pandas
+pyarrow
+pymysql
+pytz
+beautifulsoup4
+sqlalchemy

@@ -1,0 +1,133 @@
+staging:
+
+  customers:
+    file: customers.csv
+    table: stg_customers
+
+    job_config:
+
+      write_disposition: WRITE_TRUNCATE
+
+      schema:
+        - name: customer_id
+          type: INTEGER
+        - name: name
+          type: STRING
+        - name: email
+          type: STRING
+        - name: city
+          type: STRING
+        - name: signup_date
+          type: DATE
+
+      partition:
+        field: signup_date
+
+      cluster:
+        - city
+
+  transactions:
+    file: transactions.csv
+    table: stg_transactions
+
+    job_config:
+
+      write_disposition: WRITE_TRUNCATE
+
+      schema:
+        - name: transaction_id
+          type: INTEGER
+        - name: customer_id
+          type: INTEGER
+        - name: transaction_date
+          type: TIMESTAMP
+        - name: total_amount
+          type: FLOAT
+
+      partition:
+        field: transaction_date
+
+      cluster:
+        - customer_id
+
+  products:
+    file: products.csv
+    table: stg_products
+
+    job_config:
+
+      write_disposition: WRITE_TRUNCATE
+
+      schema:
+        - name: product_id
+          type: INTEGER
+        - name: product_name
+          type: STRING
+        - name: category
+          type: STRING
+        - name: price
+          type: FLOAT
+
+      cluster:
+        - category
+
+
+  transaction_items:
+    file: transaction_items.csv
+    table: stg_transaction_items
+
+    job_config:
+
+      write_disposition: WRITE_TRUNCATE
+
+      schema:
+        - name: transaction_item_id
+          type: INTEGER
+        - name: transaction_id
+          type: INTEGER
+        - name: product_id
+          type: INTEGER
+        - name: quantity
+          type: INTEGER
+        - name: price
+          type: FLOAT
+
+      cluster:
+        - product_id
+
+  marketing_campaigns:
+    file: marketing_campaigns.csv
+    table: stg_marketing_campaigns
+
+    job_config:
+
+      write_disposition: WRITE_TRUNCATE
+
+      schema:
+        - name: campaign_id
+          type: INTEGER
+        - name: campaign_name
+          type: STRING
+        - name: start_date
+          type: DATE
+        - name: end_date
+          type: DATE
+        - name: channel
+          type: STRING
+
+mart:
+
+  dim_customer:
+    sql: queries/mart/dim_customer.sql
+
+  dim_product:
+    sql: queries/mart/dim_product.sql
+
+  dim_campaign:
+    sql: queries/mart/dim_campaign.sql
+
+  dim_date:
+    sql: queries/mart/dim_date.sql
+
+  fact_sales:
+    sql: queries/mart/fact_sales.sql

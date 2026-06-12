@@ -1,0 +1,1001 @@
+campaign_id,campaign_name,start_date,end_date,channel
+1,Campaign 1,1/25/2026,3/15/2026,Email
+2,Campaign 2,4/28/2026,7/7/2026,Email
+3,Campaign 3,2/28/2026,5/24/2026,Email
+4,Campaign 4,12/10/2026,12/26/2026,Search Ads
+5,Campaign 5,5/10/2026,8/3/2026,Email
+6,Campaign 6,2/3/2026,4/12/2026,SMS
+7,Campaign 7,7/9/2026,7/21/2026,Email
+8,Campaign 8,3/14/2026,5/23/2026,Display Ads
+9,Campaign 9,4/7/2026,7/6/2026,Social Media
+10,Campaign 10,6/2/2026,8/9/2026,Social Media
+11,Campaign 11,4/12/2026,4/21/2026,Email
+12,Campaign 12,2/23/2026,3/27/2026,Display Ads
+13,Campaign 13,5/30/2026,7/24/2026,Email
+14,Campaign 14,2/5/2026,4/14/2026,Email
+15,Campaign 15,3/3/2026,4/27/2026,SMS
+16,Campaign 16,5/30/2026,7/30/2026,Display Ads
+17,Campaign 17,10/10/2026,10/31/2026,Search Ads
+18,Campaign 18,8/30/2026,11/23/2026,Social Media
+19,Campaign 19,12/22/2026,1/22/2026,Social Media
+20,Campaign 20,6/13/2026,6/27/2026,SMS
+21,Campaign 21,4/21/2026,5/9/2026,Display Ads
+22,Campaign 22,1/21/2026,2/26/2026,Search Ads
+23,Campaign 23,1/3/2026,3/23/2026,Email
+24,Campaign 24,1/31/2026,3/10/2026,Email
+25,Campaign 25,6/6/2026,6/20/2026,SMS
+26,Campaign 26,6/17/2026,7/17/2026,Social Media
+27,Campaign 27,3/31/2026,5/17/2026,Social Media
+28,Campaign 28,5/18/2026,8/16/2026,SMS
+29,Campaign 29,8/22/2026,9/14/2026,Display Ads
+30,Campaign 30,3/25/2026,6/1/2026,Email
+31,Campaign 31,9/6/2026,9/22/2026,Email
+32,Campaign 32,5/28/2026,8/12/2026,SMS
+33,Campaign 33,10/10/2026,12/1/2026,SMS
+34,Campaign 34,6/27/2026,8/11/2026,Social Media
+35,Campaign 35,2/3/2026,3/19/2026,SMS
+36,Campaign 36,12/14/2026,1/24/2026,Social Media
+37,Campaign 37,1/13/2026,3/25/2026,Email
+38,Campaign 38,4/21/2026,6/11/2026,Search Ads
+39,Campaign 39,6/27/2026,9/4/2026,Social Media
+40,Campaign 40,6/10/2026,7/13/2026,SMS
+41,Campaign 41,12/2/2026,1/7/2026,Social Media
+42,Campaign 42,2/6/2026,3/11/2026,Email
+43,Campaign 43,2/2/2026,2/27/2026,Email
+44,Campaign 44,4/27/2026,6/29/2026,Search Ads
+45,Campaign 45,8/22/2026,8/31/2026,Search Ads
+46,Campaign 46,3/11/2026,4/21/2026,Social Media
+47,Campaign 47,4/19/2026,6/14/2026,Social Media
+48,Campaign 48,6/23/2026,7/7/2026,Social Media
+49,Campaign 49,6/2/2026,7/28/2026,Search Ads
+50,Campaign 50,2/8/2026,4/4/2026,Search Ads
+51,Campaign 51,6/28/2026,7/10/2026,SMS
+52,Campaign 52,2/26/2026,4/22/2026,SMS
+53,Campaign 53,9/13/2026,11/14/2026,Display Ads
+54,Campaign 54,4/18/2026,6/3/2026,Email
+55,Campaign 55,1/14/2026,3/6/2026,Email
+56,Campaign 56,5/31/2026,7/20/2026,Social Media
+57,Campaign 57,4/25/2026,5/29/2026,Email
+58,Campaign 58,11/30/2026,2/24/2026,Search Ads
+59,Campaign 59,5/25/2026,6/8/2026,Email
+60,Campaign 60,2/7/2026,4/4/2026,Social Media
+61,Campaign 61,12/31/2026,3/7/2026,Search Ads
+62,Campaign 62,3/18/2026,6/5/2026,Display Ads
+63,Campaign 63,6/17/2026,7/14/2026,Search Ads
+64,Campaign 64,8/15/2026,9/21/2026,SMS
+65,Campaign 65,2/1/2026,3/15/2026,Social Media
+66,Campaign 66,6/25/2026,8/2/2026,Display Ads
+67,Campaign 67,8/29/2026,10/18/2026,Display Ads
+68,Campaign 68,3/19/2026,3/30/2026,Display Ads
+69,Campaign 69,7/16/2026,9/7/2026,Social Media
+70,Campaign 70,9/12/2026,10/21/2026,Display Ads
+71,Campaign 71,1/26/2026,2/17/2026,Social Media
+72,Campaign 72,3/10/2026,4/27/2026,Social Media
+73,Campaign 73,1/2/2026,3/6/2026,Search Ads
+74,Campaign 74,2/5/2026,4/9/2026,Email
+75,Campaign 75,8/13/2026,8/24/2026,Social Media
+76,Campaign 76,9/10/2026,12/7/2026,Display Ads
+77,Campaign 77,3/23/2026,5/21/2026,Email
+78,Campaign 78,4/1/2026,4/18/2026,Social Media
+79,Campaign 79,6/3/2026,8/19/2026,Social Media
+80,Campaign 80,5/12/2026,7/14/2026,SMS
+81,Campaign 81,6/13/2026,7/25/2026,Social Media
+82,Campaign 82,10/10/2026,11/2/2026,SMS
+83,Campaign 83,7/14/2026,8/12/2026,SMS
+84,Campaign 84,6/19/2026,9/17/2026,Email
+85,Campaign 85,4/22/2026,5/13/2026,Email
+86,Campaign 86,1/13/2026,3/25/2026,Search Ads
+87,Campaign 87,4/2/2026,5/19/2026,Email
+88,Campaign 88,2/7/2026,3/15/2026,Email
+89,Campaign 89,6/15/2026,7/24/2026,Email
+90,Campaign 90,10/21/2026,12/12/2026,Display Ads
+91,Campaign 91,4/2/2026,6/24/2026,SMS
+92,Campaign 92,12/18/2026,1/7/2026,Email
+93,Campaign 93,11/4/2026,1/6/2026,Email
+94,Campaign 94,11/12/2026,11/28/2026,SMS
+95,Campaign 95,2/22/2026,4/11/2026,Display Ads
+96,Campaign 96,1/31/2026,3/31/2026,Email
+97,Campaign 97,8/7/2026,10/7/2026,Social Media
+98,Campaign 98,10/21/2026,10/31/2026,Social Media
+99,Campaign 99,5/28/2026,7/20/2026,Social Media
+100,Campaign 100,4/15/2026,7/14/2026,Social Media
+101,Campaign 101,8/21/2026,10/4/2026,Display Ads
+102,Campaign 102,3/5/2026,4/1/2026,Social Media
+103,Campaign 103,4/2/2026,5/16/2026,SMS
+104,Campaign 104,4/25/2026,5/5/2026,Email
+105,Campaign 105,6/1/2026,7/5/2026,Social Media
+106,Campaign 106,11/12/2026,1/23/2026,Display Ads
+107,Campaign 107,12/6/2026,1/9/2026,Search Ads
+108,Campaign 108,4/8/2026,4/19/2026,SMS
+109,Campaign 109,2/20/2026,5/20/2026,Email
+110,Campaign 110,6/8/2026,7/13/2026,Display Ads
+111,Campaign 111,10/28/2026,1/16/2026,Display Ads
+112,Campaign 112,5/6/2026,7/20/2026,Email
+113,Campaign 113,12/16/2026,12/29/2026,Display Ads
+114,Campaign 114,8/25/2026,11/7/2026,Display Ads
+115,Campaign 115,6/22/2026,8/8/2026,Social Media
+116,Campaign 116,2/4/2026,4/25/2026,Social Media
+117,Campaign 117,5/15/2026,7/3/2026,SMS
+118,Campaign 118,1/12/2026,2/17/2026,Search Ads
+119,Campaign 119,10/7/2026,10/28/2026,SMS
+120,Campaign 120,6/30/2026,8/28/2026,Social Media
+121,Campaign 121,6/13/2026,8/4/2026,Display Ads
+122,Campaign 122,11/1/2026,11/17/2026,Social Media
+123,Campaign 123,8/31/2026,11/7/2026,Display Ads
+124,Campaign 124,4/17/2026,6/20/2026,Search Ads
+125,Campaign 125,4/16/2026,7/4/2026,SMS
+126,Campaign 126,1/6/2026,2/13/2026,Search Ads
+127,Campaign 127,10/12/2026,1/1/2026,SMS
+128,Campaign 128,5/25/2026,7/4/2026,Social Media
+129,Campaign 129,12/1/2026,1/17/2026,Email
+130,Campaign 130,6/16/2026,8/14/2026,Search Ads
+131,Campaign 131,10/31/2026,11/25/2026,Display Ads
+132,Campaign 132,10/9/2026,1/4/2026,SMS
+133,Campaign 133,1/4/2026,3/10/2026,Email
+134,Campaign 134,12/8/2026,12/30/2026,Search Ads
+135,Campaign 135,6/24/2026,9/9/2026,Search Ads
+136,Campaign 136,7/26/2026,8/18/2026,Email
+137,Campaign 137,6/2/2026,6/12/2026,SMS
+138,Campaign 138,5/30/2026,6/22/2026,Display Ads
+139,Campaign 139,12/20/2026,2/14/2026,Search Ads
+140,Campaign 140,12/27/2026,1/19/2026,Search Ads
+141,Campaign 141,2/14/2026,3/23/2026,Social Media
+142,Campaign 142,9/1/2026,10/21/2026,Social Media
+143,Campaign 143,4/26/2026,7/19/2026,Display Ads
+144,Campaign 144,8/9/2026,8/21/2026,Email
+145,Campaign 145,12/28/2026,3/1/2026,Search Ads
+146,Campaign 146,7/15/2026,9/17/2026,Search Ads
+147,Campaign 147,8/16/2026,10/23/2026,SMS
+148,Campaign 148,1/11/2026,4/3/2026,Display Ads
+149,Campaign 149,6/21/2026,7/17/2026,Email
+150,Campaign 150,4/30/2026,7/21/2026,Social Media
+151,Campaign 151,10/12/2026,1/10/2026,Search Ads
+152,Campaign 152,2/16/2026,4/4/2026,Search Ads
+153,Campaign 153,12/28/2026,3/10/2026,Display Ads
+154,Campaign 154,7/27/2026,8/15/2026,SMS
+155,Campaign 155,9/1/2026,11/10/2026,Social Media
+156,Campaign 156,4/9/2026,6/27/2026,Display Ads
+157,Campaign 157,12/11/2026,3/2/2026,Display Ads
+158,Campaign 158,5/23/2026,7/5/2026,Social Media
+159,Campaign 159,2/26/2026,4/13/2026,SMS
+160,Campaign 160,10/21/2026,11/2/2026,SMS
+161,Campaign 161,5/31/2026,8/12/2026,Social Media
+162,Campaign 162,3/23/2026,6/16/2026,Social Media
+163,Campaign 163,7/23/2026,9/12/2026,Social Media
+164,Campaign 164,12/6/2026,12/28/2026,Social Media
+165,Campaign 165,7/15/2026,9/22/2026,Search Ads
+166,Campaign 166,4/4/2026,5/2/2026,Social Media
+167,Campaign 167,6/16/2026,9/8/2026,Email
+168,Campaign 168,4/20/2026,6/1/2026,SMS
+169,Campaign 169,7/16/2026,8/18/2026,Display Ads
+170,Campaign 170,11/7/2026,12/5/2026,Email
+171,Campaign 171,5/10/2026,5/22/2026,Display Ads
+172,Campaign 172,1/6/2026,2/6/2026,Email
+173,Campaign 173,9/27/2026,10/7/2026,Social Media
+174,Campaign 174,2/21/2026,4/5/2026,Display Ads
+175,Campaign 175,5/23/2026,7/25/2026,Display Ads
+176,Campaign 176,9/16/2026,11/20/2026,Social Media
+177,Campaign 177,8/13/2026,9/4/2026,Search Ads
+178,Campaign 178,6/4/2026,8/13/2026,Social Media
+179,Campaign 179,6/27/2026,7/21/2026,Social Media
+180,Campaign 180,10/1/2026,10/22/2026,Social Media
+181,Campaign 181,6/11/2026,7/16/2026,Email
+182,Campaign 182,11/1/2026,11/28/2026,Display Ads
+183,Campaign 183,11/18/2026,12/30/2026,Search Ads
+184,Campaign 184,7/15/2026,9/25/2026,Email
+185,Campaign 185,10/7/2026,10/18/2026,Search Ads
+186,Campaign 186,7/25/2026,10/6/2026,Social Media
+187,Campaign 187,1/25/2026,4/13/2026,Email
+188,Campaign 188,7/23/2026,10/18/2026,Email
+189,Campaign 189,5/19/2026,6/12/2026,Display Ads
+190,Campaign 190,2/10/2026,3/16/2026,SMS
+191,Campaign 191,6/28/2026,9/3/2026,SMS
+192,Campaign 192,9/19/2026,10/19/2026,Search Ads
+193,Campaign 193,8/2/2026,8/25/2026,SMS
+194,Campaign 194,7/24/2026,8/11/2026,Display Ads
+195,Campaign 195,3/15/2026,3/22/2026,Search Ads
+196,Campaign 196,5/18/2026,7/26/2026,Display Ads
+197,Campaign 197,6/5/2026,7/8/2026,SMS
+198,Campaign 198,3/21/2026,5/20/2026,Social Media
+199,Campaign 199,6/10/2026,8/4/2026,Display Ads
+200,Campaign 200,4/26/2026,7/23/2026,Social Media
+201,Campaign 201,9/18/2026,12/1/2026,SMS
+202,Campaign 202,9/7/2026,10/13/2026,Social Media
+203,Campaign 203,9/30/2026,12/8/2026,Search Ads
+204,Campaign 204,7/14/2026,9/9/2026,Display Ads
+205,Campaign 205,1/2/2026,3/18/2026,Search Ads
+206,Campaign 206,8/29/2026,9/17/2026,SMS
+207,Campaign 207,8/19/2026,10/1/2026,Search Ads
+208,Campaign 208,7/4/2026,8/21/2026,SMS
+209,Campaign 209,9/18/2026,11/18/2026,Email
+210,Campaign 210,12/27/2026,3/3/2026,Social Media
+211,Campaign 211,9/14/2026,10/5/2026,Social Media
+212,Campaign 212,3/26/2026,4/18/2026,Search Ads
+213,Campaign 213,9/28/2026,12/20/2026,Search Ads
+214,Campaign 214,4/26/2026,5/6/2026,Social Media
+215,Campaign 215,7/3/2026,9/12/2026,SMS
+216,Campaign 216,4/17/2026,5/1/2026,Display Ads
+217,Campaign 217,10/24/2026,12/3/2026,Social Media
+218,Campaign 218,4/22/2026,6/18/2026,Search Ads
+219,Campaign 219,5/20/2026,7/17/2026,Social Media
+220,Campaign 220,4/22/2026,6/2/2026,Search Ads
+221,Campaign 221,3/25/2026,5/14/2026,Email
+222,Campaign 222,9/24/2026,11/27/2026,Search Ads
+223,Campaign 223,3/30/2026,6/18/2026,SMS
+224,Campaign 224,1/2/2026,2/4/2026,Email
+225,Campaign 225,6/10/2026,9/3/2026,Social Media
+226,Campaign 226,9/22/2026,12/15/2026,Display Ads
+227,Campaign 227,2/10/2026,2/19/2026,Search Ads
+228,Campaign 228,7/4/2026,8/22/2026,Social Media
+229,Campaign 229,2/6/2026,2/21/2026,Email
+230,Campaign 230,11/28/2026,12/31/2026,Social Media
+231,Campaign 231,1/1/2026,2/2/2026,SMS
+232,Campaign 232,1/2/2026,2/28/2026,SMS
+233,Campaign 233,8/18/2026,9/14/2026,Social Media
+234,Campaign 234,11/10/2026,1/8/2026,SMS
+235,Campaign 235,2/6/2026,3/16/2026,Email
+236,Campaign 236,3/15/2026,3/24/2026,Display Ads
+237,Campaign 237,7/29/2026,10/8/2026,Search Ads
+238,Campaign 238,9/20/2026,10/2/2026,SMS
+239,Campaign 239,8/3/2026,9/17/2026,Email
+240,Campaign 240,4/17/2026,7/13/2026,SMS
+241,Campaign 241,3/11/2026,4/21/2026,Email
+242,Campaign 242,2/13/2026,5/13/2026,Search Ads
+243,Campaign 243,9/26/2026,11/6/2026,Email
+244,Campaign 244,6/6/2026,6/22/2026,Display Ads
+245,Campaign 245,4/30/2026,5/9/2026,Email
+246,Campaign 246,1/14/2026,4/8/2026,SMS
+247,Campaign 247,7/15/2026,10/5/2026,Search Ads
+248,Campaign 248,2/2/2026,4/27/2026,Social Media
+249,Campaign 249,10/25/2026,12/25/2026,Display Ads
+250,Campaign 250,2/17/2026,4/3/2026,Social Media
+251,Campaign 251,7/28/2026,8/29/2026,Email
+252,Campaign 252,6/26/2026,9/24/2026,Display Ads
+253,Campaign 253,8/23/2026,10/17/2026,Social Media
+254,Campaign 254,5/29/2026,6/16/2026,SMS
+255,Campaign 255,4/12/2026,6/29/2026,Social Media
+256,Campaign 256,9/16/2026,10/29/2026,Display Ads
+257,Campaign 257,11/3/2026,12/11/2026,Search Ads
+258,Campaign 258,2/5/2026,4/16/2026,Search Ads
+259,Campaign 259,2/3/2026,4/19/2026,Email
+260,Campaign 260,7/15/2026,8/19/2026,Display Ads
+261,Campaign 261,2/20/2026,4/18/2026,SMS
+262,Campaign 262,7/4/2026,8/27/2026,Search Ads
+263,Campaign 263,2/27/2026,3/19/2026,Social Media
+264,Campaign 264,11/12/2026,12/7/2026,Email
+265,Campaign 265,7/15/2026,10/1/2026,SMS
+266,Campaign 266,3/2/2026,5/10/2026,Display Ads
+267,Campaign 267,5/27/2026,6/13/2026,SMS
+268,Campaign 268,4/5/2026,6/29/2026,Search Ads
+269,Campaign 269,12/7/2026,2/24/2026,SMS
+270,Campaign 270,5/1/2026,7/10/2026,Social Media
+271,Campaign 271,4/23/2026,6/8/2026,Social Media
+272,Campaign 272,11/5/2026,11/16/2026,Social Media
+273,Campaign 273,3/3/2026,5/25/2026,Search Ads
+274,Campaign 274,1/12/2026,2/22/2026,SMS
+275,Campaign 275,2/25/2026,5/5/2026,Display Ads
+276,Campaign 276,10/20/2026,12/6/2026,SMS
+277,Campaign 277,10/22/2026,12/27/2026,Search Ads
+278,Campaign 278,11/19/2026,2/5/2026,Email
+279,Campaign 279,8/4/2026,10/4/2026,Email
+280,Campaign 280,2/9/2026,3/3/2026,Email
+281,Campaign 281,11/28/2026,2/9/2026,Email
+282,Campaign 282,12/7/2026,1/8/2026,Search Ads
+283,Campaign 283,8/21/2026,9/1/2026,Search Ads
+284,Campaign 284,10/11/2026,11/8/2026,Display Ads
+285,Campaign 285,9/24/2026,10/18/2026,Display Ads
+286,Campaign 286,5/6/2026,7/3/2026,Email
+287,Campaign 287,8/31/2026,9/22/2026,Search Ads
+288,Campaign 288,8/26/2026,10/6/2026,Display Ads
+289,Campaign 289,10/23/2026,1/16/2026,Social Media
+290,Campaign 290,2/28/2026,5/29/2026,SMS
+291,Campaign 291,10/17/2026,11/30/2026,Display Ads
+292,Campaign 292,2/23/2026,5/19/2026,Social Media
+293,Campaign 293,11/29/2026,2/21/2026,Social Media
+294,Campaign 294,8/24/2026,10/29/2026,SMS
+295,Campaign 295,11/8/2026,12/2/2026,SMS
+296,Campaign 296,12/9/2026,2/14/2026,Email
+297,Campaign 297,10/13/2026,12/12/2026,SMS
+298,Campaign 298,11/4/2026,1/10/2026,Email
+299,Campaign 299,1/12/2026,2/27/2026,SMS
+300,Campaign 300,2/13/2026,3/4/2026,Display Ads
+301,Campaign 301,7/28/2026,9/15/2026,Email
+302,Campaign 302,5/6/2026,7/31/2026,Search Ads
+303,Campaign 303,5/2/2026,5/29/2026,Email
+304,Campaign 304,12/19/2026,3/16/2026,Display Ads
+305,Campaign 305,4/8/2026,5/29/2026,Email
+306,Campaign 306,1/30/2026,3/13/2026,Social Media
+307,Campaign 307,5/22/2026,8/11/2026,Social Media
+308,Campaign 308,1/23/2026,4/18/2026,Search Ads
+309,Campaign 309,6/6/2026,8/23/2026,Display Ads
+310,Campaign 310,8/6/2026,9/7/2026,Email
+311,Campaign 311,4/28/2026,5/24/2026,Email
+312,Campaign 312,3/20/2026,5/1/2026,SMS
+313,Campaign 313,6/23/2026,9/10/2026,Email
+314,Campaign 314,9/17/2026,11/29/2026,Display Ads
+315,Campaign 315,8/13/2026,10/8/2026,Social Media
+316,Campaign 316,3/24/2026,6/14/2026,Display Ads
+317,Campaign 317,7/22/2026,10/15/2026,Search Ads
+318,Campaign 318,3/5/2026,4/2/2026,Email
+319,Campaign 319,4/20/2026,5/24/2026,Email
+320,Campaign 320,6/13/2026,7/8/2026,SMS
+321,Campaign 321,12/4/2026,2/9/2026,Email
+322,Campaign 322,10/25/2026,11/10/2026,Email
+323,Campaign 323,10/8/2026,12/19/2026,Search Ads
+324,Campaign 324,5/21/2026,7/27/2026,Social Media
+325,Campaign 325,9/12/2026,11/22/2026,Email
+326,Campaign 326,5/9/2026,7/26/2026,Search Ads
+327,Campaign 327,2/12/2026,4/8/2026,Search Ads
+328,Campaign 328,12/29/2026,2/13/2026,Display Ads
+329,Campaign 329,10/12/2026,12/25/2026,Email
+330,Campaign 330,5/24/2026,6/27/2026,SMS
+331,Campaign 331,7/21/2026,9/1/2026,SMS
+332,Campaign 332,6/14/2026,8/31/2026,Search Ads
+333,Campaign 333,9/30/2026,11/8/2026,Email
+334,Campaign 334,2/16/2026,4/19/2026,Social Media
+335,Campaign 335,12/31/2026,1/10/2026,Social Media
+336,Campaign 336,8/12/2026,10/2/2026,Search Ads
+337,Campaign 337,3/14/2026,6/7/2026,Display Ads
+338,Campaign 338,1/27/2026,3/23/2026,Social Media
+339,Campaign 339,1/2/2026,1/10/2026,SMS
+340,Campaign 340,6/24/2026,8/16/2026,Display Ads
+341,Campaign 341,2/4/2026,2/11/2026,Display Ads
+342,Campaign 342,9/28/2026,11/16/2026,Email
+343,Campaign 343,1/26/2026,3/5/2026,Display Ads
+344,Campaign 344,1/27/2026,4/21/2026,Social Media
+345,Campaign 345,3/10/2026,6/7/2026,Social Media
+346,Campaign 346,8/7/2026,10/14/2026,Search Ads
+347,Campaign 347,3/31/2026,5/9/2026,Social Media
+348,Campaign 348,7/4/2026,7/18/2026,Display Ads
+349,Campaign 349,3/4/2026,5/10/2026,Display Ads
+350,Campaign 350,7/18/2026,9/21/2026,Search Ads
+351,Campaign 351,12/22/2026,2/27/2026,Display Ads
+352,Campaign 352,8/1/2026,8/12/2026,Social Media
+353,Campaign 353,3/1/2026,5/25/2026,SMS
+354,Campaign 354,12/29/2026,1/21/2026,Email
+355,Campaign 355,5/9/2026,5/31/2026,Email
+356,Campaign 356,6/27/2026,9/23/2026,Email
+357,Campaign 357,10/6/2026,10/25/2026,Display Ads
+358,Campaign 358,7/23/2026,8/23/2026,Display Ads
+359,Campaign 359,2/4/2026,3/25/2026,Social Media
+360,Campaign 360,12/13/2026,3/5/2026,Social Media
+361,Campaign 361,11/23/2026,12/1/2026,Search Ads
+362,Campaign 362,5/2/2026,5/16/2026,Email
+363,Campaign 363,1/31/2026,4/12/2026,SMS
+364,Campaign 364,7/1/2026,7/18/2026,SMS
+365,Campaign 365,6/27/2026,7/9/2026,Social Media
+366,Campaign 366,5/31/2026,7/2/2026,Display Ads
+367,Campaign 367,4/18/2026,5/17/2026,Email
+368,Campaign 368,9/30/2026,11/11/2026,Display Ads
+369,Campaign 369,12/20/2026,1/11/2026,Social Media
+370,Campaign 370,8/12/2026,10/30/2026,Email
+371,Campaign 371,3/5/2026,5/10/2026,Email
+372,Campaign 372,8/27/2026,9/14/2026,SMS
+373,Campaign 373,6/26/2026,7/26/2026,Social Media
+374,Campaign 374,4/25/2026,7/21/2026,Email
+375,Campaign 375,12/13/2026,12/21/2026,SMS
+376,Campaign 376,7/30/2026,9/22/2026,Search Ads
+377,Campaign 377,6/16/2026,7/24/2026,Social Media
+378,Campaign 378,10/26/2026,1/23/2026,SMS
+379,Campaign 379,9/29/2026,11/14/2026,Email
+380,Campaign 380,2/16/2026,3/30/2026,SMS
+381,Campaign 381,7/26/2026,8/19/2026,Display Ads
+382,Campaign 382,10/9/2026,12/7/2026,SMS
+383,Campaign 383,1/21/2026,3/3/2026,SMS
+384,Campaign 384,12/29/2026,2/11/2026,Social Media
+385,Campaign 385,6/19/2026,7/29/2026,Email
+386,Campaign 386,9/30/2026,11/21/2026,Display Ads
+387,Campaign 387,1/15/2026,3/6/2026,Display Ads
+388,Campaign 388,7/9/2026,10/4/2026,SMS
+389,Campaign 389,3/17/2026,6/6/2026,Search Ads
+390,Campaign 390,11/15/2026,1/29/2026,Display Ads
+391,Campaign 391,3/8/2026,5/9/2026,Social Media
+392,Campaign 392,8/16/2026,9/28/2026,SMS
+393,Campaign 393,12/2/2026,2/11/2026,Display Ads
+394,Campaign 394,7/5/2026,7/23/2026,Display Ads
+395,Campaign 395,3/8/2026,4/17/2026,SMS
+396,Campaign 396,8/15/2026,9/24/2026,Email
+397,Campaign 397,8/25/2026,11/6/2026,SMS
+398,Campaign 398,8/31/2026,9/24/2026,Search Ads
+399,Campaign 399,4/16/2026,6/3/2026,Social Media
+400,Campaign 400,2/28/2026,4/24/2026,Display Ads
+401,Campaign 401,3/11/2026,4/28/2026,Email
+402,Campaign 402,7/13/2026,9/3/2026,Email
+403,Campaign 403,11/22/2026,1/21/2026,Search Ads
+404,Campaign 404,11/17/2026,1/6/2026,Email
+405,Campaign 405,1/19/2026,3/12/2026,Social Media
+406,Campaign 406,11/30/2026,2/4/2026,Display Ads
+407,Campaign 407,1/17/2026,1/26/2026,Search Ads
+408,Campaign 408,6/16/2026,8/20/2026,Display Ads
+409,Campaign 409,3/25/2026,5/26/2026,Search Ads
+410,Campaign 410,8/27/2026,10/4/2026,Social Media
+411,Campaign 411,2/4/2026,4/27/2026,Social Media
+412,Campaign 412,9/15/2026,11/12/2026,Social Media
+413,Campaign 413,3/24/2026,4/29/2026,Display Ads
+414,Campaign 414,8/9/2026,10/8/2026,Search Ads
+415,Campaign 415,7/6/2026,9/24/2026,Search Ads
+416,Campaign 416,4/29/2026,5/9/2026,SMS
+417,Campaign 417,11/14/2026,12/12/2026,Social Media
+418,Campaign 418,5/7/2026,7/20/2026,SMS
+419,Campaign 419,3/9/2026,4/2/2026,SMS
+420,Campaign 420,9/20/2026,11/8/2026,Email
+421,Campaign 421,7/5/2026,8/20/2026,SMS
+422,Campaign 422,12/10/2026,2/13/2026,Search Ads
+423,Campaign 423,12/5/2026,2/8/2026,Email
+424,Campaign 424,9/10/2026,10/5/2026,SMS
+425,Campaign 425,12/19/2026,2/2/2026,Social Media
+426,Campaign 426,6/14/2026,7/14/2026,SMS
+427,Campaign 427,2/21/2026,4/24/2026,Email
+428,Campaign 428,5/17/2026,6/12/2026,Display Ads
+429,Campaign 429,2/6/2026,2/13/2026,Search Ads
+430,Campaign 430,11/23/2026,1/13/2026,Email
+431,Campaign 431,8/22/2026,11/7/2026,Search Ads
+432,Campaign 432,3/12/2026,5/18/2026,Search Ads
+433,Campaign 433,8/7/2026,9/14/2026,Email
+434,Campaign 434,3/4/2026,3/27/2026,Social Media
+435,Campaign 435,10/1/2026,11/28/2026,Social Media
+436,Campaign 436,8/3/2026,10/3/2026,Display Ads
+437,Campaign 437,3/17/2026,5/31/2026,Email
+438,Campaign 438,12/12/2026,2/19/2026,Display Ads
+439,Campaign 439,2/25/2026,4/1/2026,Display Ads
+440,Campaign 440,12/31/2026,2/6/2026,Social Media
+441,Campaign 441,1/12/2026,3/2/2026,Display Ads
+442,Campaign 442,1/4/2026,3/30/2026,Display Ads
+443,Campaign 443,3/26/2026,4/11/2026,SMS
+444,Campaign 444,10/10/2026,12/19/2026,SMS
+445,Campaign 445,4/1/2026,5/5/2026,Social Media
+446,Campaign 446,6/10/2026,6/28/2026,Social Media
+447,Campaign 447,2/26/2026,5/26/2026,SMS
+448,Campaign 448,5/21/2026,6/16/2026,Social Media
+449,Campaign 449,9/30/2026,11/25/2026,Search Ads
+450,Campaign 450,3/13/2026,4/22/2026,Search Ads
+451,Campaign 451,1/3/2026,1/30/2026,Search Ads
+452,Campaign 452,10/29/2026,1/10/2026,Email
+453,Campaign 453,8/10/2026,8/27/2026,Social Media
+454,Campaign 454,7/27/2026,10/25/2026,Search Ads
+455,Campaign 455,1/26/2026,2/22/2026,Social Media
+456,Campaign 456,9/21/2026,12/10/2026,Display Ads
+457,Campaign 457,2/26/2026,5/1/2026,Email
+458,Campaign 458,9/22/2026,12/21/2026,Search Ads
+459,Campaign 459,5/15/2026,5/28/2026,Social Media
+460,Campaign 460,5/20/2026,6/29/2026,Email
+461,Campaign 461,5/21/2026,7/24/2026,Display Ads
+462,Campaign 462,2/3/2026,4/10/2026,Social Media
+463,Campaign 463,12/31/2026,2/22/2026,Email
+464,Campaign 464,1/2/2026,3/4/2026,Display Ads
+465,Campaign 465,2/25/2026,3/13/2026,SMS
+466,Campaign 466,1/15/2026,3/6/2026,Display Ads
+467,Campaign 467,6/13/2026,7/15/2026,Display Ads
+468,Campaign 468,6/12/2026,8/16/2026,Search Ads
+469,Campaign 469,4/10/2026,6/15/2026,Social Media
+470,Campaign 470,3/23/2026,4/14/2026,Search Ads
+471,Campaign 471,7/31/2026,9/22/2026,Email
+472,Campaign 472,5/12/2026,7/5/2026,Social Media
+473,Campaign 473,5/21/2026,7/10/2026,Social Media
+474,Campaign 474,2/18/2026,5/5/2026,Social Media
+475,Campaign 475,1/2/2026,2/15/2026,Social Media
+476,Campaign 476,5/4/2026,5/13/2026,Search Ads
+477,Campaign 477,10/27/2026,12/11/2026,Email
+478,Campaign 478,5/5/2026,5/26/2026,Social Media
+479,Campaign 479,3/16/2026,5/30/2026,Search Ads
+480,Campaign 480,5/25/2026,6/23/2026,Email
+481,Campaign 481,12/31/2026,1/19/2026,SMS
+482,Campaign 482,10/24/2026,1/20/2026,Search Ads
+483,Campaign 483,6/1/2026,7/13/2026,Social Media
+484,Campaign 484,7/27/2026,10/21/2026,SMS
+485,Campaign 485,12/8/2026,2/25/2026,Search Ads
+486,Campaign 486,3/25/2026,4/10/2026,Social Media
+487,Campaign 487,2/3/2026,2/14/2026,SMS
+488,Campaign 488,6/1/2026,8/28/2026,Email
+489,Campaign 489,2/22/2026,5/4/2026,Email
+490,Campaign 490,11/23/2026,2/19/2026,Social Media
+491,Campaign 491,5/15/2026,7/12/2026,Email
+492,Campaign 492,1/12/2026,2/20/2026,Email
+493,Campaign 493,6/6/2026,6/27/2026,SMS
+494,Campaign 494,3/15/2026,4/24/2026,Social Media
+495,Campaign 495,6/14/2026,8/25/2026,Display Ads
+496,Campaign 496,5/15/2026,5/28/2026,Social Media
+497,Campaign 497,3/20/2026,5/26/2026,SMS
+498,Campaign 498,6/13/2026,7/25/2026,SMS
+499,Campaign 499,7/21/2026,9/30/2026,Email
+500,Campaign 500,5/23/2026,7/20/2026,SMS
+501,Campaign 501,10/20/2026,12/2/2026,Social Media
+502,Campaign 502,1/11/2026,3/11/2026,SMS
+503,Campaign 503,2/8/2026,4/9/2026,SMS
+504,Campaign 504,7/17/2026,8/27/2026,Search Ads
+505,Campaign 505,5/11/2026,8/7/2026,Social Media
+506,Campaign 506,7/18/2026,8/22/2026,SMS
+507,Campaign 507,2/7/2026,3/27/2026,SMS
+508,Campaign 508,5/11/2026,8/4/2026,Social Media
+509,Campaign 509,6/1/2026,8/5/2026,Display Ads
+510,Campaign 510,5/11/2026,8/7/2026,Display Ads
+511,Campaign 511,11/5/2026,1/20/2026,Search Ads
+512,Campaign 512,9/1/2026,11/18/2026,Email
+513,Campaign 513,12/4/2026,1/23/2026,Social Media
+514,Campaign 514,12/11/2026,2/12/2026,SMS
+515,Campaign 515,8/4/2026,10/13/2026,SMS
+516,Campaign 516,12/26/2026,1/23/2026,Search Ads
+517,Campaign 517,6/8/2026,8/5/2026,Email
+518,Campaign 518,9/15/2026,12/4/2026,Email
+519,Campaign 519,7/17/2026,9/24/2026,Display Ads
+520,Campaign 520,12/9/2026,12/26/2026,SMS
+521,Campaign 521,12/20/2026,2/12/2026,Social Media
+522,Campaign 522,8/21/2026,10/7/2026,Search Ads
+523,Campaign 523,10/13/2026,12/18/2026,Email
+524,Campaign 524,11/16/2026,2/10/2026,Display Ads
+525,Campaign 525,12/8/2026,3/4/2026,Social Media
+526,Campaign 526,3/2/2026,5/3/2026,Search Ads
+527,Campaign 527,2/17/2026,4/1/2026,Display Ads
+528,Campaign 528,10/2/2026,11/8/2026,Search Ads
+529,Campaign 529,1/5/2026,1/28/2026,Search Ads
+530,Campaign 530,5/28/2026,6/19/2026,Email
+531,Campaign 531,3/21/2026,4/24/2026,SMS
+532,Campaign 532,8/15/2026,11/3/2026,Social Media
+533,Campaign 533,1/1/2026,1/28/2026,Search Ads
+534,Campaign 534,1/31/2026,3/31/2026,Social Media
+535,Campaign 535,3/22/2026,5/21/2026,Display Ads
+536,Campaign 536,7/26/2026,9/11/2026,Social Media
+537,Campaign 537,7/14/2026,8/3/2026,Social Media
+538,Campaign 538,10/25/2026,1/8/2026,Display Ads
+539,Campaign 539,3/14/2026,4/18/2026,Search Ads
+540,Campaign 540,10/10/2026,12/15/2026,Social Media
+541,Campaign 541,7/9/2026,8/5/2026,SMS
+542,Campaign 542,3/30/2026,5/12/2026,Email
+543,Campaign 543,12/26/2026,2/13/2026,Search Ads
+544,Campaign 544,9/5/2026,10/4/2026,Email
+545,Campaign 545,2/25/2026,5/16/2026,Search Ads
+546,Campaign 546,5/6/2026,7/4/2026,SMS
+547,Campaign 547,7/27/2026,8/6/2026,Display Ads
+548,Campaign 548,4/5/2026,4/29/2026,Display Ads
+549,Campaign 549,6/23/2026,9/2/2026,Email
+550,Campaign 550,5/12/2026,7/31/2026,Search Ads
+551,Campaign 551,2/16/2026,4/5/2026,Display Ads
+552,Campaign 552,5/27/2026,6/24/2026,Display Ads
+553,Campaign 553,7/5/2026,9/10/2026,Email
+554,Campaign 554,1/29/2026,2/7/2026,Display Ads
+555,Campaign 555,9/1/2026,10/27/2026,Display Ads
+556,Campaign 556,11/13/2026,12/14/2026,SMS
+557,Campaign 557,7/26/2026,9/18/2026,SMS
+558,Campaign 558,12/25/2026,3/2/2026,SMS
+559,Campaign 559,10/23/2026,11/15/2026,Social Media
+560,Campaign 560,5/13/2026,5/23/2026,SMS
+561,Campaign 561,3/28/2026,6/2/2026,Search Ads
+562,Campaign 562,5/17/2026,8/9/2026,Search Ads
+563,Campaign 563,5/11/2026,6/9/2026,Search Ads
+564,Campaign 564,10/21/2026,1/18/2026,Email
+565,Campaign 565,5/22/2026,7/10/2026,SMS
+566,Campaign 566,5/17/2026,7/22/2026,Email
+567,Campaign 567,1/15/2026,1/26/2026,Search Ads
+568,Campaign 568,11/30/2026,2/5/2026,Search Ads
+569,Campaign 569,5/25/2026,7/24/2026,Social Media
+570,Campaign 570,1/5/2026,1/27/2026,Display Ads
+571,Campaign 571,8/18/2026,11/1/2026,Email
+572,Campaign 572,6/17/2026,8/24/2026,Email
+573,Campaign 573,8/23/2026,10/19/2026,Email
+574,Campaign 574,1/15/2026,3/13/2026,Display Ads
+575,Campaign 575,7/12/2026,10/10/2026,Search Ads
+576,Campaign 576,5/27/2026,6/18/2026,Email
+577,Campaign 577,10/26/2026,12/5/2026,Display Ads
+578,Campaign 578,8/17/2026,9/14/2026,Social Media
+579,Campaign 579,4/25/2026,6/14/2026,SMS
+580,Campaign 580,5/13/2026,7/20/2026,SMS
+581,Campaign 581,6/26/2026,7/15/2026,Social Media
+582,Campaign 582,8/7/2026,8/23/2026,Search Ads
+583,Campaign 583,10/3/2026,11/10/2026,Social Media
+584,Campaign 584,12/3/2026,1/16/2026,Search Ads
+585,Campaign 585,11/9/2026,1/12/2026,Social Media
+586,Campaign 586,3/9/2026,4/20/2026,Display Ads
+587,Campaign 587,3/15/2026,4/8/2026,SMS
+588,Campaign 588,12/4/2026,1/16/2026,Email
+589,Campaign 589,3/29/2026,5/22/2026,Display Ads
+590,Campaign 590,1/13/2026,2/26/2026,Social Media
+591,Campaign 591,11/21/2026,2/8/2026,Social Media
+592,Campaign 592,8/31/2026,11/2/2026,Social Media
+593,Campaign 593,11/13/2026,12/6/2026,SMS
+594,Campaign 594,5/29/2026,7/12/2026,Search Ads
+595,Campaign 595,6/11/2026,9/7/2026,SMS
+596,Campaign 596,2/27/2026,4/2/2026,Display Ads
+597,Campaign 597,9/13/2026,10/8/2026,Display Ads
+598,Campaign 598,1/25/2026,3/6/2026,Social Media
+599,Campaign 599,11/7/2026,1/19/2026,Search Ads
+600,Campaign 600,9/3/2026,11/28/2026,SMS
+601,Campaign 601,12/6/2026,3/4/2026,SMS
+602,Campaign 602,4/17/2026,6/27/2026,Social Media
+603,Campaign 603,12/7/2026,1/30/2026,Search Ads
+604,Campaign 604,9/20/2026,12/18/2026,SMS
+605,Campaign 605,12/11/2026,2/17/2026,SMS
+606,Campaign 606,9/18/2026,11/12/2026,Email
+607,Campaign 607,10/1/2026,10/16/2026,Social Media
+608,Campaign 608,4/6/2026,5/22/2026,SMS
+609,Campaign 609,4/5/2026,5/1/2026,Social Media
+610,Campaign 610,5/31/2026,6/22/2026,SMS
+611,Campaign 611,1/1/2026,3/11/2026,Search Ads
+612,Campaign 612,3/12/2026,6/8/2026,Email
+613,Campaign 613,12/9/2026,1/14/2026,SMS
+614,Campaign 614,1/15/2026,1/26/2026,Search Ads
+615,Campaign 615,7/6/2026,7/25/2026,Social Media
+616,Campaign 616,11/5/2026,11/20/2026,Social Media
+617,Campaign 617,2/7/2026,4/23/2026,Display Ads
+618,Campaign 618,6/12/2026,6/26/2026,Search Ads
+619,Campaign 619,3/6/2026,5/18/2026,SMS
+620,Campaign 620,5/17/2026,6/25/2026,SMS
+621,Campaign 621,8/25/2026,10/2/2026,SMS
+622,Campaign 622,7/23/2026,8/21/2026,Email
+623,Campaign 623,6/1/2026,7/12/2026,Display Ads
+624,Campaign 624,7/23/2026,8/10/2026,SMS
+625,Campaign 625,5/11/2026,6/3/2026,Display Ads
+626,Campaign 626,9/13/2026,9/27/2026,SMS
+627,Campaign 627,4/12/2026,5/20/2026,Display Ads
+628,Campaign 628,4/5/2026,6/12/2026,Search Ads
+629,Campaign 629,7/21/2026,10/4/2026,Email
+630,Campaign 630,10/16/2026,1/12/2026,Email
+631,Campaign 631,2/7/2026,4/16/2026,Email
+632,Campaign 632,6/24/2026,7/11/2026,Search Ads
+633,Campaign 633,2/9/2026,2/28/2026,Display Ads
+634,Campaign 634,4/22/2026,5/26/2026,Display Ads
+635,Campaign 635,9/24/2026,11/8/2026,Display Ads
+636,Campaign 636,1/20/2026,4/11/2026,Search Ads
+637,Campaign 637,8/17/2026,10/19/2026,SMS
+638,Campaign 638,4/21/2026,7/18/2026,Display Ads
+639,Campaign 639,7/23/2026,7/30/2026,Social Media
+640,Campaign 640,4/13/2026,7/5/2026,Social Media
+641,Campaign 641,10/5/2026,12/31/2026,SMS
+642,Campaign 642,11/5/2026,1/15/2026,Search Ads
+643,Campaign 643,11/19/2026,1/1/2026,Social Media
+644,Campaign 644,6/26/2026,9/9/2026,SMS
+645,Campaign 645,11/30/2026,1/11/2026,Display Ads
+646,Campaign 646,10/27/2026,12/12/2026,Search Ads
+647,Campaign 647,8/17/2026,9/16/2026,Search Ads
+648,Campaign 648,1/14/2026,3/2/2026,Display Ads
+649,Campaign 649,8/21/2026,10/30/2026,SMS
+650,Campaign 650,1/2/2026,1/17/2026,Search Ads
+651,Campaign 651,10/10/2026,11/24/2026,Email
+652,Campaign 652,6/26/2026,8/15/2026,Display Ads
+653,Campaign 653,1/10/2026,2/10/2026,Email
+654,Campaign 654,4/20/2026,5/24/2026,Social Media
+655,Campaign 655,10/24/2026,12/9/2026,Social Media
+656,Campaign 656,12/22/2026,2/27/2026,Email
+657,Campaign 657,9/7/2026,12/1/2026,SMS
+658,Campaign 658,3/15/2026,4/10/2026,Social Media
+659,Campaign 659,11/17/2026,12/18/2026,Search Ads
+660,Campaign 660,12/18/2026,1/14/2026,Display Ads
+661,Campaign 661,9/18/2026,10/15/2026,Social Media
+662,Campaign 662,11/23/2026,1/29/2026,Display Ads
+663,Campaign 663,5/3/2026,6/13/2026,SMS
+664,Campaign 664,6/23/2026,8/29/2026,Social Media
+665,Campaign 665,1/30/2026,2/24/2026,Social Media
+666,Campaign 666,11/15/2026,1/6/2026,Social Media
+667,Campaign 667,7/10/2026,8/25/2026,Search Ads
+668,Campaign 668,2/27/2026,4/25/2026,Search Ads
+669,Campaign 669,1/12/2026,3/11/2026,Email
+670,Campaign 670,4/17/2026,6/8/2026,SMS
+671,Campaign 671,7/24/2026,9/4/2026,Email
+672,Campaign 672,2/19/2026,3/24/2026,Social Media
+673,Campaign 673,8/27/2026,10/20/2026,Email
+674,Campaign 674,10/22/2026,12/22/2026,Search Ads
+675,Campaign 675,10/30/2026,1/16/2026,Display Ads
+676,Campaign 676,2/13/2026,3/19/2026,Display Ads
+677,Campaign 677,10/27/2026,12/29/2026,Social Media
+678,Campaign 678,8/7/2026,8/23/2026,SMS
+679,Campaign 679,11/25/2026,1/12/2026,Search Ads
+680,Campaign 680,4/29/2026,7/5/2026,Email
+681,Campaign 681,9/12/2026,11/7/2026,Search Ads
+682,Campaign 682,5/27/2026,7/8/2026,Display Ads
+683,Campaign 683,4/15/2026,6/9/2026,Email
+684,Campaign 684,7/27/2026,8/10/2026,Social Media
+685,Campaign 685,7/20/2026,10/3/2026,Social Media
+686,Campaign 686,6/16/2026,7/29/2026,Email
+687,Campaign 687,8/24/2026,9/17/2026,Email
+688,Campaign 688,10/27/2026,12/25/2026,SMS
+689,Campaign 689,11/5/2026,1/26/2026,Social Media
+690,Campaign 690,3/21/2026,4/22/2026,Display Ads
+691,Campaign 691,6/30/2026,9/1/2026,SMS
+692,Campaign 692,11/3/2026,1/22/2026,Display Ads
+693,Campaign 693,9/15/2026,10/25/2026,Display Ads
+694,Campaign 694,12/23/2026,2/5/2026,Email
+695,Campaign 695,10/15/2026,10/30/2026,Social Media
+696,Campaign 696,1/10/2026,3/14/2026,SMS
+697,Campaign 697,1/13/2026,3/2/2026,Search Ads
+698,Campaign 698,4/12/2026,6/16/2026,Social Media
+699,Campaign 699,11/14/2026,12/16/2026,Social Media
+700,Campaign 700,6/7/2026,8/30/2026,Email
+701,Campaign 701,10/15/2026,11/6/2026,Search Ads
+702,Campaign 702,5/25/2026,7/21/2026,Search Ads
+703,Campaign 703,4/9/2026,6/22/2026,Email
+704,Campaign 704,11/15/2026,1/8/2026,Email
+705,Campaign 705,3/4/2026,5/5/2026,Email
+706,Campaign 706,10/29/2026,12/16/2026,Display Ads
+707,Campaign 707,10/4/2026,11/16/2026,Display Ads
+708,Campaign 708,11/15/2026,2/11/2026,Email
+709,Campaign 709,6/4/2026,8/22/2026,Email
+710,Campaign 710,2/17/2026,3/10/2026,Display Ads
+711,Campaign 711,11/21/2026,2/1/2026,Email
+712,Campaign 712,3/21/2026,5/26/2026,Display Ads
+713,Campaign 713,8/24/2026,9/24/2026,Email
+714,Campaign 714,11/1/2026,1/2/2026,Social Media
+715,Campaign 715,8/11/2026,10/14/2026,SMS
+716,Campaign 716,8/25/2026,10/13/2026,Email
+717,Campaign 717,1/8/2026,4/7/2026,Display Ads
+718,Campaign 718,11/27/2026,1/31/2026,Display Ads
+719,Campaign 719,6/4/2026,6/13/2026,Search Ads
+720,Campaign 720,3/23/2026,5/6/2026,Email
+721,Campaign 721,7/1/2026,8/26/2026,Email
+722,Campaign 722,1/18/2026,2/22/2026,Social Media
+723,Campaign 723,5/24/2026,6/19/2026,Social Media
+724,Campaign 724,4/2/2026,6/22/2026,Social Media
+725,Campaign 725,12/26/2026,3/1/2026,SMS
+726,Campaign 726,3/22/2026,5/13/2026,Display Ads
+727,Campaign 727,11/9/2026,12/10/2026,SMS
+728,Campaign 728,2/27/2026,4/14/2026,SMS
+729,Campaign 729,7/26/2026,8/5/2026,Display Ads
+730,Campaign 730,5/17/2026,5/29/2026,SMS
+731,Campaign 731,1/11/2026,3/3/2026,Email
+732,Campaign 732,11/2/2026,12/19/2026,SMS
+733,Campaign 733,9/9/2026,10/12/2026,SMS
+734,Campaign 734,9/13/2026,10/10/2026,Search Ads
+735,Campaign 735,7/10/2026,8/15/2026,SMS
+736,Campaign 736,12/29/2026,1/8/2026,SMS
+737,Campaign 737,6/19/2026,7/11/2026,Search Ads
+738,Campaign 738,2/22/2026,4/26/2026,SMS
+739,Campaign 739,2/19/2026,3/3/2026,Search Ads
+740,Campaign 740,6/17/2026,8/14/2026,SMS
+741,Campaign 741,2/26/2026,4/22/2026,Display Ads
+742,Campaign 742,9/13/2026,10/1/2026,SMS
+743,Campaign 743,11/3/2026,1/23/2026,Display Ads
+744,Campaign 744,9/7/2026,10/4/2026,SMS
+745,Campaign 745,9/4/2026,11/12/2026,Display Ads
+746,Campaign 746,1/4/2026,2/20/2026,Search Ads
+747,Campaign 747,1/27/2026,3/1/2026,Email
+748,Campaign 748,11/4/2026,12/27/2026,Search Ads
+749,Campaign 749,6/7/2026,8/18/2026,Email
+750,Campaign 750,7/24/2026,8/2/2026,Email
+751,Campaign 751,2/18/2026,4/18/2026,Search Ads
+752,Campaign 752,7/24/2026,9/14/2026,Social Media
+753,Campaign 753,9/27/2026,10/12/2026,Search Ads
+754,Campaign 754,8/28/2026,10/12/2026,SMS
+755,Campaign 755,6/22/2026,9/20/2026,Search Ads
+756,Campaign 756,8/23/2026,9/1/2026,Social Media
+757,Campaign 757,8/18/2026,10/5/2026,Email
+758,Campaign 758,10/16/2026,11/23/2026,SMS
+759,Campaign 759,3/2/2026,3/10/2026,SMS
+760,Campaign 760,11/28/2026,12/24/2026,SMS
+761,Campaign 761,8/20/2026,8/31/2026,Email
+762,Campaign 762,5/6/2026,6/8/2026,Social Media
+763,Campaign 763,2/1/2026,4/27/2026,Search Ads
+764,Campaign 764,11/19/2026,1/18/2026,SMS
+765,Campaign 765,12/24/2026,3/7/2026,SMS
+766,Campaign 766,10/1/2026,10/31/2026,Social Media
+767,Campaign 767,8/13/2026,9/9/2026,Email
+768,Campaign 768,10/15/2026,11/17/2026,Social Media
+769,Campaign 769,4/6/2026,7/2/2026,Social Media
+770,Campaign 770,6/28/2026,9/22/2026,Social Media
+771,Campaign 771,2/28/2026,3/10/2026,Social Media
+772,Campaign 772,2/28/2026,5/6/2026,Email
+773,Campaign 773,10/23/2026,12/21/2026,Email
+774,Campaign 774,1/9/2026,3/5/2026,Display Ads
+775,Campaign 775,12/11/2026,1/8/2026,SMS
+776,Campaign 776,7/25/2026,8/2/2026,Social Media
+777,Campaign 777,4/2/2026,4/20/2026,Search Ads
+778,Campaign 778,5/16/2026,6/6/2026,Search Ads
+779,Campaign 779,8/9/2026,10/8/2026,Display Ads
+780,Campaign 780,6/20/2026,7/14/2026,Display Ads
+781,Campaign 781,7/28/2026,8/4/2026,Social Media
+782,Campaign 782,9/2/2026,11/8/2026,Social Media
+783,Campaign 783,9/20/2026,11/7/2026,Display Ads
+784,Campaign 784,1/19/2026,4/13/2026,Email
+785,Campaign 785,9/5/2026,11/14/2026,Display Ads
+786,Campaign 786,2/6/2026,3/1/2026,SMS
+787,Campaign 787,11/20/2026,12/13/2026,SMS
+788,Campaign 788,4/7/2026,4/24/2026,Email
+789,Campaign 789,4/7/2026,5/20/2026,Display Ads
+790,Campaign 790,8/4/2026,9/11/2026,SMS
+791,Campaign 791,5/29/2026,6/28/2026,Social Media
+792,Campaign 792,11/5/2026,1/10/2026,Display Ads
+793,Campaign 793,11/30/2026,2/11/2026,Display Ads
+794,Campaign 794,7/1/2026,7/24/2026,Social Media
+795,Campaign 795,5/14/2026,7/7/2026,SMS
+796,Campaign 796,4/1/2026,4/12/2026,Search Ads
+797,Campaign 797,7/18/2026,7/31/2026,SMS
+798,Campaign 798,1/9/2026,1/17/2026,SMS
+799,Campaign 799,7/23/2026,8/3/2026,SMS
+800,Campaign 800,11/28/2026,1/24/2026,Social Media
+801,Campaign 801,1/24/2026,4/14/2026,Search Ads
+802,Campaign 802,9/17/2026,11/7/2026,SMS
+803,Campaign 803,7/11/2026,9/29/2026,Search Ads
+804,Campaign 804,7/14/2026,8/17/2026,Search Ads
+805,Campaign 805,6/26/2026,8/5/2026,Display Ads
+806,Campaign 806,6/19/2026,7/11/2026,Social Media
+807,Campaign 807,9/4/2026,11/15/2026,Social Media
+808,Campaign 808,11/22/2026,12/22/2026,Social Media
+809,Campaign 809,11/30/2026,2/7/2026,Display Ads
+810,Campaign 810,7/23/2026,8/11/2026,Social Media
+811,Campaign 811,11/29/2026,1/8/2026,Email
+812,Campaign 812,1/19/2026,3/20/2026,Email
+813,Campaign 813,1/17/2026,2/9/2026,Email
+814,Campaign 814,4/11/2026,6/15/2026,Email
+815,Campaign 815,9/4/2026,11/20/2026,Social Media
+816,Campaign 816,9/16/2026,11/6/2026,Social Media
+817,Campaign 817,7/15/2026,9/15/2026,Display Ads
+818,Campaign 818,6/19/2026,8/29/2026,SMS
+819,Campaign 819,3/25/2026,6/5/2026,SMS
+820,Campaign 820,10/18/2026,11/22/2026,Email
+821,Campaign 821,2/11/2026,4/4/2026,Display Ads
+822,Campaign 822,5/15/2026,6/10/2026,Display Ads
+823,Campaign 823,12/22/2026,3/6/2026,Email
+824,Campaign 824,12/27/2026,2/18/2026,Display Ads
+825,Campaign 825,4/17/2026,6/30/2026,SMS
+826,Campaign 826,2/6/2026,3/4/2026,Email
+827,Campaign 827,10/25/2026,11/22/2026,Display Ads
+828,Campaign 828,4/9/2026,5/5/2026,Display Ads
+829,Campaign 829,6/2/2026,8/2/2026,SMS
+830,Campaign 830,7/25/2026,8/7/2026,Search Ads
+831,Campaign 831,8/31/2026,10/26/2026,Display Ads
+832,Campaign 832,5/12/2026,7/18/2026,Search Ads
+833,Campaign 833,10/22/2026,11/15/2026,Social Media
+834,Campaign 834,1/1/2026,1/17/2026,Social Media
+835,Campaign 835,2/12/2026,3/30/2026,SMS
+836,Campaign 836,6/9/2026,8/31/2026,Email
+837,Campaign 837,5/2/2026,6/30/2026,SMS
+838,Campaign 838,10/22/2026,12/29/2026,SMS
+839,Campaign 839,5/12/2026,7/8/2026,SMS
+840,Campaign 840,8/16/2026,10/15/2026,Search Ads
+841,Campaign 841,4/26/2026,5/27/2026,SMS
+842,Campaign 842,12/19/2026,1/4/2026,SMS
+843,Campaign 843,7/20/2026,8/13/2026,Search Ads
+844,Campaign 844,9/10/2026,11/30/2026,SMS
+845,Campaign 845,2/26/2026,4/30/2026,SMS
+846,Campaign 846,10/8/2026,11/19/2026,Social Media
+847,Campaign 847,1/23/2026,4/21/2026,Email
+848,Campaign 848,12/2/2026,1/17/2026,Display Ads
+849,Campaign 849,7/30/2026,10/25/2026,Display Ads
+850,Campaign 850,8/22/2026,9/27/2026,Search Ads
+851,Campaign 851,9/4/2026,9/26/2026,Display Ads
+852,Campaign 852,6/3/2026,8/7/2026,SMS
+853,Campaign 853,5/25/2026,7/14/2026,Social Media
+854,Campaign 854,3/25/2026,5/19/2026,Social Media
+855,Campaign 855,8/20/2026,11/15/2026,Search Ads
+856,Campaign 856,5/22/2026,8/11/2026,SMS
+857,Campaign 857,9/24/2026,11/7/2026,SMS
+858,Campaign 858,12/6/2026,12/26/2026,Email
+859,Campaign 859,5/20/2026,8/11/2026,Social Media
+860,Campaign 860,5/10/2026,7/19/2026,Search Ads
+861,Campaign 861,5/13/2026,5/27/2026,Email
+862,Campaign 862,7/28/2026,9/8/2026,Social Media
+863,Campaign 863,8/4/2026,10/15/2026,Social Media
+864,Campaign 864,5/9/2026,6/17/2026,Social Media
+865,Campaign 865,6/20/2026,6/28/2026,Email
+866,Campaign 866,9/21/2026,10/29/2026,Display Ads
+867,Campaign 867,10/10/2026,11/14/2026,Display Ads
+868,Campaign 868,6/7/2026,7/18/2026,Email
+869,Campaign 869,9/26/2026,12/13/2026,Display Ads
+870,Campaign 870,3/4/2026,4/28/2026,Display Ads
+871,Campaign 871,11/28/2026,1/22/2026,Email
+872,Campaign 872,5/17/2026,6/6/2026,Display Ads
+873,Campaign 873,8/9/2026,8/28/2026,Display Ads
+874,Campaign 874,7/14/2026,8/5/2026,SMS
+875,Campaign 875,1/9/2026,3/30/2026,Display Ads
+876,Campaign 876,5/13/2026,7/9/2026,Email
+877,Campaign 877,12/13/2026,3/11/2026,Search Ads
+878,Campaign 878,8/1/2026,10/20/2026,Display Ads
+879,Campaign 879,3/18/2026,5/15/2026,Search Ads
+880,Campaign 880,10/2/2026,10/12/2026,SMS
+881,Campaign 881,3/7/2026,4/6/2026,Email
+882,Campaign 882,7/15/2026,9/2/2026,Email
+883,Campaign 883,8/22/2026,10/20/2026,Email
+884,Campaign 884,7/24/2026,9/1/2026,Social Media
+885,Campaign 885,10/30/2026,12/20/2026,Social Media
+886,Campaign 886,5/25/2026,7/6/2026,Search Ads
+887,Campaign 887,4/8/2026,5/26/2026,Search Ads
+888,Campaign 888,7/24/2026,9/2/2026,SMS
+889,Campaign 889,3/5/2026,5/22/2026,Display Ads
+890,Campaign 890,8/20/2026,10/7/2026,Search Ads
+891,Campaign 891,12/15/2026,1/13/2026,Search Ads
+892,Campaign 892,7/2/2026,8/20/2026,Social Media
+893,Campaign 893,6/16/2026,8/30/2026,SMS
+894,Campaign 894,10/11/2026,11/26/2026,Email
+895,Campaign 895,7/5/2026,10/1/2026,Search Ads
+896,Campaign 896,10/3/2026,12/28/2026,Search Ads
+897,Campaign 897,8/2/2026,9/1/2026,Search Ads
+898,Campaign 898,2/19/2026,3/31/2026,Search Ads
+899,Campaign 899,12/20/2026,2/8/2026,Search Ads
+900,Campaign 900,1/11/2026,2/7/2026,SMS
+901,Campaign 901,10/24/2026,11/2/2026,Email
+902,Campaign 902,1/24/2026,4/15/2026,Social Media
+903,Campaign 903,11/2/2026,1/30/2026,Display Ads
+904,Campaign 904,8/30/2026,11/16/2026,Display Ads
+905,Campaign 905,12/31/2026,2/26/2026,Display Ads
+906,Campaign 906,6/5/2026,7/7/2026,Email
+907,Campaign 907,7/5/2026,9/26/2026,Search Ads
+908,Campaign 908,6/24/2026,7/19/2026,Social Media
+909,Campaign 909,12/27/2026,2/17/2026,Search Ads
+910,Campaign 910,9/30/2026,11/25/2026,Email
+911,Campaign 911,8/25/2026,11/18/2026,Display Ads
+912,Campaign 912,6/18/2026,8/5/2026,SMS
+913,Campaign 913,6/25/2026,7/7/2026,SMS
+914,Campaign 914,1/27/2026,2/22/2026,Social Media
+915,Campaign 915,2/23/2026,5/4/2026,SMS
+916,Campaign 916,3/25/2026,5/2/2026,SMS
+917,Campaign 917,6/20/2026,9/17/2026,SMS
+918,Campaign 918,10/25/2026,11/2/2026,Social Media
+919,Campaign 919,5/15/2026,5/24/2026,Display Ads
+920,Campaign 920,9/16/2026,11/18/2026,Search Ads
+921,Campaign 921,2/13/2026,5/1/2026,Display Ads
+922,Campaign 922,1/29/2026,3/29/2026,SMS
+923,Campaign 923,11/28/2026,2/17/2026,Search Ads
+924,Campaign 924,7/8/2026,9/26/2026,Search Ads
+925,Campaign 925,6/20/2026,8/12/2026,Social Media
+926,Campaign 926,6/2/2026,7/26/2026,Social Media
+927,Campaign 927,4/26/2026,6/12/2026,Display Ads
+928,Campaign 928,1/2/2026,1/18/2026,SMS
+929,Campaign 929,10/21/2026,11/28/2026,Display Ads
+930,Campaign 930,3/31/2026,4/23/2026,Email
+931,Campaign 931,11/5/2026,1/11/2026,Display Ads
+932,Campaign 932,10/5/2026,10/25/2026,Display Ads
+933,Campaign 933,4/12/2026,6/2/2026,Display Ads
+934,Campaign 934,4/4/2026,6/9/2026,Social Media
+935,Campaign 935,3/22/2026,4/4/2026,Search Ads
+936,Campaign 936,6/21/2026,8/23/2026,Search Ads
+937,Campaign 937,4/25/2026,6/26/2026,Email
+938,Campaign 938,12/17/2026,12/26/2026,Display Ads
+939,Campaign 939,7/7/2026,9/23/2026,Email
+940,Campaign 940,12/13/2026,2/19/2026,SMS
+941,Campaign 941,5/11/2026,7/2/2026,Email
+942,Campaign 942,7/20/2026,10/7/2026,Social Media
+943,Campaign 943,2/26/2026,5/20/2026,Search Ads
+944,Campaign 944,6/1/2026,6/25/2026,Search Ads
+945,Campaign 945,3/17/2026,5/20/2026,Social Media
+946,Campaign 946,1/7/2026,2/21/2026,Social Media
+947,Campaign 947,4/22/2026,7/10/2026,Display Ads
+948,Campaign 948,4/13/2026,5/8/2026,Display Ads
+949,Campaign 949,10/27/2026,1/17/2026,Social Media
+950,Campaign 950,1/14/2026,4/9/2026,Email
+951,Campaign 951,1/4/2026,3/26/2026,Email
+952,Campaign 952,5/26/2026,8/19/2026,Email
+953,Campaign 953,12/20/2026,2/17/2026,SMS
+954,Campaign 954,2/3/2026,3/13/2026,Display Ads
+955,Campaign 955,1/3/2026,2/2/2026,Email
+956,Campaign 956,8/22/2026,10/31/2026,Email
+957,Campaign 957,11/11/2026,11/29/2026,Email
+958,Campaign 958,4/6/2026,6/25/2026,Search Ads
+959,Campaign 959,4/14/2026,6/8/2026,Search Ads
+960,Campaign 960,10/11/2026,11/30/2026,SMS
+961,Campaign 961,7/16/2026,8/31/2026,Social Media
+962,Campaign 962,12/30/2026,3/2/2026,Social Media
+963,Campaign 963,10/20/2026,11/7/2026,SMS
+964,Campaign 964,6/18/2026,8/15/2026,SMS
+965,Campaign 965,4/10/2026,5/31/2026,Email
+966,Campaign 966,11/27/2026,1/30/2026,Email
+967,Campaign 967,12/8/2026,1/16/2026,Email
+968,Campaign 968,5/26/2026,6/9/2026,Display Ads
+969,Campaign 969,5/2/2026,6/25/2026,Email
+970,Campaign 970,12/12/2026,12/19/2026,Display Ads
+971,Campaign 971,1/26/2026,2/2/2026,Social Media
+972,Campaign 972,2/27/2026,4/13/2026,Email
+973,Campaign 973,3/9/2026,5/27/2026,Social Media
+974,Campaign 974,5/23/2026,6/21/2026,SMS
+975,Campaign 975,7/27/2026,10/21/2026,Search Ads
+976,Campaign 976,1/8/2026,3/24/2026,SMS
+977,Campaign 977,12/9/2026,12/28/2026,SMS
+978,Campaign 978,5/13/2026,7/6/2026,Display Ads
+979,Campaign 979,12/29/2026,3/2/2026,SMS
+980,Campaign 980,11/5/2026,12/1/2026,Search Ads
+981,Campaign 981,3/4/2026,5/29/2026,Email
+982,Campaign 982,1/5/2026,1/27/2026,Social Media
+983,Campaign 983,8/20/2026,9/9/2026,Social Media
+984,Campaign 984,10/30/2026,11/29/2026,Display Ads
+985,Campaign 985,11/27/2026,12/25/2026,Email
+986,Campaign 986,10/16/2026,11/16/2026,Display Ads
+987,Campaign 987,11/14/2026,2/7/2026,Social Media
+988,Campaign 988,7/20/2026,10/5/2026,Search Ads
+989,Campaign 989,7/6/2026,7/27/2026,Display Ads
+990,Campaign 990,5/15/2026,7/4/2026,SMS
+991,Campaign 991,1/19/2026,2/13/2026,SMS
+992,Campaign 992,10/2/2026,11/2/2026,Search Ads
+993,Campaign 993,3/27/2026,5/18/2026,Email
+994,Campaign 994,9/10/2026,12/1/2026,Email
+995,Campaign 995,11/30/2026,12/18/2026,Social Media
+996,Campaign 996,12/15/2026,3/4/2026,Display Ads
+997,Campaign 997,12/25/2026,3/8/2026,Search Ads
+998,Campaign 998,1/23/2026,4/22/2026,SMS
+999,Campaign 999,8/2/2026,9/19/2026,SMS
+1000,Campaign 1000,7/6/2026,8/7/2026,Social Media
