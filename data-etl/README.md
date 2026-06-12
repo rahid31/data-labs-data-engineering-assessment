@@ -127,6 +127,13 @@ Check import errors:
 airflow dags list-import-errors
 ```
 
+## Additional: Account Credentials
+
+Starting airflow with `airflow standalone` command will automatically generate credentials json file:
+```text
+{your airflow folder}/simple_auth_manager_passwords.json.generated
+```
+
 ---
 
 # Project Structure
