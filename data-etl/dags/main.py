@@ -13,7 +13,9 @@ logger = logging.getLogger(__name__)
 cfg = load_bq_config()
 
 DEFAULT_ARGS = {
-    "owner": "airflow"
+    'owner': 'airflow',
+    'retries': 1,
+    'retry_delay': timedelta(minutes=5)
 }
 
 def create_staging_dag(name, conf):
