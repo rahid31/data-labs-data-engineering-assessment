@@ -30,6 +30,48 @@ Each table is managed through its own Airflow DAG for easier monitoring and trou
 
 ---
 
+# Project Structure
+
+```text
+data_etl/
+├── .venv 
+├── airflow/
+│   ├── airflow.db
+│   ├── airflow.cfg
+│   ├── logs/
+├── config/
+│   └── bq_config.yaml
+├── credentials/
+│   ├── service-account.json
+├── dags/
+│   ├── main.py
+│   └── common/
+│       ├── __init__.py
+│       ├── env.py
+│       ├── config_bq.py
+│       └── etl_utils.py
+├── queries/
+│   └── mart/
+│       ├── dim_customer.sql
+│       ├── dim_product.sql
+│       ├── dim_campaign.sql
+│       ├── dim_date.sql
+│       └── fact_sales.sql
+├── sample_data/
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── transactions.csv
+│   ├── transaction_items.csv
+│   └── marketing_campaigns.csv
+├── .env
+├── .gitignore
+├── DESIGN.md
+├── README.md
+└── requirements.txt
+```
+
+---
+
 # Apache Airflow Setup
 
 ## Create and Activate Virtual Environment
@@ -132,66 +174,6 @@ airflow dags list-import-errors
 Starting airflow with `airflow standalone` command will automatically generate credentials json file:
 ```text
 {your airflow folder}/simple_auth_manager_passwords.json.generated
-```
-
----
-
-# Project Structure
-
-```text
-data_etl/
-│
-│
-├── .venv 
-│
-│
-├── airflow/
-│   ├── airflow.db
-│   ├── airflow.cfg
-│   ├── logs/
-│
-│
-├── config/
-│   └── bq_config.yaml
-│
-│
-├── credentials/
-│   ├── service-account.json
-│
-│
-├── dags/
-│   ├── main.py
-│   └── common/
-│       ├── __init__.py
-│       ├── env.py
-│       ├── config_bq.py
-│       └── etl_utils.py
-│
-├── queries/
-│   └── mart/
-│       ├── dim_customer.sql
-│       ├── dim_product.sql
-│       ├── dim_campaign.sql
-│       ├── dim_date.sql
-│       └── fact_sales.sql
-│
-├── sample_data/
-│   ├── customers.csv
-│   ├── products.csv
-│   ├── transactions.csv
-│   ├── transaction_items.csv
-│   └── marketing_campaigns.csv
-│
-│
-├── .env
-│
-├── .gitignore
-│
-├── DESIGN.md
-│
-├── README.md
-│
-└── requirements.txt
 ```
 
 ---
