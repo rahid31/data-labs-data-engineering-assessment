@@ -176,6 +176,58 @@ Starting airflow with `airflow standalone` command will automatically generate c
 {your airflow folder}/simple_auth_manager_passwords.json.generated
 ```
 
+## Troubleshooting
+
+### Airflow reads wrong environment / wrong DAG folder
+
+If Airflow is still pointing to another project or wrong `dags_folder`, reset the environment variables first:
+
+```bash
+unset AIRFLOW_HOME
+unset AIRFLOW__CORE__DAGS_FOLDER
+```
+
+### Create start_airflow.sh
+
+Create a file in the airflow folder:
+
+```bash
+cd airflow
+touch start_airflow.sh
+chmod +x start_airflow.sh
+```
+
+Add the following content:
+
+```bash
+#!/bin/bash
+
+echo "PWD=$(pwd)"
+
+export AIRFLOW_HOME=$(pwd)
+
+echo "AIRFLOW_HOME=$AIRFLOW_HOME"
+
+airflow info | grep -E "airflow_home|dags_folder|config_file"
+
+airflow standalone
+```
+
+Run Airflow using the start_airflow.sh
+
+```bash
+./start_airflow.sh
+```
+
+In the terminal you will see if Airflow is using the correct paths.
+
+If DAGs still not updated, restart Airflow completely:
+
+```bash
+pkill -f airflow
+./start_airflow.sh
+```
+
 ---
 
 # BigQuery Setup
