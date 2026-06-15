@@ -2,7 +2,7 @@ import logging
 
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from common.config_bq import load_bq_config
 from common.etl_utils import ingest_csv, run_sql
