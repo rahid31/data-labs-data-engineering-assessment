@@ -4,6 +4,7 @@ CLUSTER BY product_id, customer_id, transaction_id
 AS
 
 SELECT
+    b.transaction_item_id,
     a.transaction_id,
     a.customer_id,
     b.product_id,
@@ -14,6 +15,4 @@ SELECT
 FROM
 `{{project}}.{{staging_dataset}}.stg_transactions` a
 JOIN
-`{{project}}.{{staging_dataset}}.stg_transaction_items` b
-ON
-a.transaction_id = b.transaction_id;
+`{{project}}.{{staging_dataset}}.stg_transaction_items` b ON a.transaction_id = b.transaction_id;
