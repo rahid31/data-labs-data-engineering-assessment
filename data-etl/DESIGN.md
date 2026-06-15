@@ -1,3 +1,66 @@
+# Architecture Overview
+
+This project implements a simple and scalable ELT pipeline using Apache Airflow and Google BigQuery. The design follows a configuration-driven approach where YAML files define tables, schemas, and transformation logic, enabling new datasets to be added with minimal code changes.
+
+---
+
+## Architecture Flow
+
+```text
+CSV Files
+   |
+   v
+Airflow DAG (dynamic per table from YAML)
+   |
+   v
+ingest_csv task
+   - Read CSV from local storage
+   - Load into BigQuery staging tables (WRITE_TRUNCATE)
+   |
+   v
+BigQuery Staging Layer
+   - stg_customers
+   - stg_products
+   - stg_transactions
+   - stg_transaction_items
+   - stg_marketing_campaigns
+   |
+   v
+run_sql task
+   - Execute SQL from /queries/mart
+   - Build dimensional model (star schema)
+   |
+   v
+BigQuery Mart Layer
+   - fact_sales
+   - dim_customer
+   - dim_product
+   - dim_date
+   - dim_campaign
+```
+
+## Dags Design
+Design
+
+Staging tables are a direct copy of CSV data into BigQuery. This keeps ingestion simple and repeatable.
+
+The mart layer is built using SQL inside BigQuery to form a basic star schema. Fact table is built from transactions and transaction items, while dimensions are built from their respective staging tables.
+
+Everything is driven by YAML config:
+
+- table list
+- schema
+- partition & clustering
+- file mapping
+
+So adding a new dataset is just:
+
+- add CSV
+- update YAML
+- add SQL (if transformation needed)
+
+---
+
 ## Data Warehouse Design
 
 A star schema was selected to support analytical workloads and simplify reporting queries.
