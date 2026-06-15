@@ -117,6 +117,10 @@ def ingest_csv(table_name, config):
         config["table"]
     )
 
+    if df.empty:
+        logger.warning(f"No data to load for {table_id}")
+        return
+
     job = client.load_table_from_dataframe(
         df,
         table_id,
@@ -124,6 +128,7 @@ def ingest_csv(table_name, config):
     )
 
     job.result()
+    print(f"Loaded {job.output_rows} rows into {table_id}.")
 
 def run_sql(sql_path):
 
@@ -131,21 +136,15 @@ def run_sql(sql_path):
 
     sql_file = PROJECT_ROOT / sql_path
 
+    if not sql_file.exists():
+        raise FileNotFoundError(f"SQL file not found: {sql_file}")
+
     sql = sql_file.read_text()
 
-    sql = sql.replace(
-        "{{project}}",
-        Settings.PROJECT_ID
-    )
-
-    sql = sql.replace(
-        "{{staging_dataset}}",
-        Settings.DATASET_STAGING
-    )
-
-    sql = sql.replace(
-        "{{mart_dataset}}",
-        Settings.DATASET_MART
-    )
+    sql = sql.replace("{{project}}", Settings.PROJECT_ID)
+    sql = sql.replace("{{staging_dataset}}", Settings.DATASET_STAGING)
+    sql = sql.replace("{{mart_dataset}}", Settings.DATASET_MART)
 
     client.query(sql).result()
+
+    print(f"Executed SQL from {sql_path}")
